@@ -657,5 +657,12 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Untagged", "Chene tag"),
         ("new-version-of-{}-tip", "B'at una versione noa de {} a disponimentu"),
         ("Accessible devices", "Dispositivos atzessìbiles"),
+        ("View camera", "Mustra sa càmera"),
+        ("upgrade_remote_rustdesk_client_to_{}_tip", "Atualiza su cliente RustDesk remotu a sa versione {} o prus noa!"),
+        ("view_camera_unsupported_tip", "Su dispositivu remotu non suportat sa visualizatzione de sa càmera"),
+        ("Enable camera", "Abìlita sa càmera"),
+        ("No cameras", "Peruna càmera"),
+        ("d3d_render_tip", "Cando sa renderizatzione D3D est abilitada, s'ischermu de controllu remotu diat pòdere èssere nieddu in unas cantas màchinas"),
+        ("Use D3D rendering", "Imprea sa renderizatzione D3D"),
     ].iter().cloned().collect();
 }
